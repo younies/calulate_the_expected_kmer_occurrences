@@ -33,7 +33,8 @@ public class CalulateExpectedKmers {
 			 temp = temp.multiply( factors);
 			 
 			 kmersProbability[i] = temp.multiply(kmersNumbers);
-					 
+					
+			 
 		 }
 		 
 		 
